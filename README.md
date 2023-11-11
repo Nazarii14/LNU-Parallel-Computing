@@ -10,3 +10,5 @@
 8. Multiplying matrices with CUDA Acceleration.
 9. Multiplying matrices with MPI.
 10. Multiplying matrices with MPI using LNU Cluster.
+
+## Also I prepared a presentation about atomic types based on 5th chapter of "Concurrency in Action" book.
