@@ -1,0 +1,10 @@
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\bin\Debug\task04_ParalelForms.exe.config
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\bin\Debug\task04_ParalelForms.exe
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\bin\Debug\task04_ParalelForms.pdb
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\obj\Debug\task04_ParalelForms.csproj.AssemblyReference.cache
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\obj\Debug\task04_ParalelForms.Properties.Resources.resources
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\obj\Debug\task04_ParalelForms.csproj.GenerateResource.cache
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\obj\Debug\task04_ParalelForms.csproj.CoreCompileInputs.cache
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\obj\Debug\task04_ParalelForms.exe
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\obj\Debug\task04_ParalelForms.pdb
+H:\GitHub\Distributed_computing-5term\task04_ParalelForms\task04_ParalelForms\obj\Debug\Lab4.Form1.resources

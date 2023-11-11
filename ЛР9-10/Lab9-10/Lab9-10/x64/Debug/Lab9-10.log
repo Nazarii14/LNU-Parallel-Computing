@@ -1,0 +1,19 @@
+﻿  Lab9-10.cpp
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(83,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(83,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(91,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(91,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(95,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(105,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(105,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(113,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(113,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(165,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(165,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(204,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(147,18): message : see reference to function template instantiation 'int equalMatrices<int>(Matrix<int> &,Matrix<int> &)' being compiled
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(204,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(204,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\Lab9-10\Lab9-10.cpp(204,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Lab9-10.vcxproj -> D:\Study\Паралельні та розподілені обчислення\ЛР9-10\Lab9-10\x64\Debug\Lab9-10.exe
