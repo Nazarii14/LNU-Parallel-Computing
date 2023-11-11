@@ -1,4 +1,4 @@
-# 10 Labs of Parallel Computing in LNU
+# 10 Labs of Parallel Computing discipline in LNU
 ##### (s+p) = (sequential and parallel algorithms realization included)
 1. Adding matrices. (s+p)
 2. Multiplying matrices. (s+p)
